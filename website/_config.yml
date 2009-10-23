@@ -1,0 +1,4 @@
+auto: true
+#destination: 
+exclude:
+ - Rakefile
